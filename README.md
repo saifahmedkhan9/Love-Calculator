@@ -1,2 +1,10 @@
 # Love-Calculator
-Calculate the compatibility between couples based on 1)Their names and 2) Starting Date of Relationship.
+_________________________________________
+Android Application
+
+* Special Algo is used which will give 90% correct result.
+* You have to input your name and your partner name
+* Starting date of relationship is also considered.
+* Nice gui with love backgrounds.
+
+![SnapShot](http://s30.postimg.org/escvbicgt/snap1.jpg?noCache=1426879866)
