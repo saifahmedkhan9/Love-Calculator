@@ -1,6 +1,6 @@
 # Love-Calculator
 _________________________________________
-Android Application
+###Android Application
 
 * Special Algo is used which will give 90% correct result.
 * You have to input your name and your partner name
