@@ -7,4 +7,5 @@ _________________________________________
 * Starting date of relationship is also considered.
 * Nice gui with love backgrounds.
 
+[Link To Love Calculator !](http://amzn.to/1FVwLoI)
 ![SnapShot](http://s30.postimg.org/escvbicgt/snap1.jpg?noCache=1426879866)
